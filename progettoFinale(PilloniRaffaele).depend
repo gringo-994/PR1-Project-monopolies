@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1458507004 source:/media/gringo/KINGSTON/Algoritmi&Strutture/progettoFinale(PilloniRaffaele)/FunzioniMonopoli.c
+	"FunzioniMonopoli.h"
+
+1463347692 /media/gringo/KINGSTON/Algoritmi&Strutture/progettoFinale(PilloniRaffaele)/FunzioniMonopoli.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1455554263 source:/media/gringo/KINGSTON/Algoritmi&Strutture/progettoFinale(PilloniRaffaele)/main.c
+	"FunzioniMonopoli.h"
+
+1458507004 source:/home/gringo/Dropbox/Algoritmi&Strutture/progettoFinale(PilloniRaffaele)/FunzioniMonopoli.c
+	"FunzioniMonopoli.h"
+
+1463347692 /home/gringo/Dropbox/Algoritmi&Strutture/progettoFinale(PilloniRaffaele)/FunzioniMonopoli.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1455554262 source:/home/gringo/Dropbox/Algoritmi&Strutture/progettoFinale(PilloniRaffaele)/main.c
+	"FunzioniMonopoli.h"
+
